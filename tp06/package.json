@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "karma-junit-reporter": "^2.0.1"
+  },
+  "dependencies": {
+    "ngx-toastr": "^19.0.0"
+  }
+}
